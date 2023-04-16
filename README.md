@@ -29,6 +29,7 @@ Solo se usó una salida digital.
 
 
 __Implementación de la práctica en el laboratorio:__ https://youtu.be/Z5ZqPjXJmZI
+
 __Simulación en RobotStudio:__ https://youtu.be/4mG4dATRGfc
 
 
