@@ -28,7 +28,9 @@ Solo se usó una salida digital.
 - DO_01 se usó como indicador de funcionamiento del robot. Activado con la primera entrada (DI_01) y desactivado al finalizar la segunda subrutina (Activada por DI_02)
 
 
-**Video Laboratorio 1:** https://youtu.be/atYaf5iX8Yo
+__Implementación de la práctica en el laboratorio:__ https://youtu.be/Z5ZqPjXJmZI
+__Simulación en RobotStudio:__ https://youtu.be/4mG4dATRGfc
+
 
 ## Conclusiones 
 1. Un tablero de control permite realizar un seguimiento de la rutina, para revisión de intervención / mantenimiento, o instantes que requieran un tiempo de espera entre subrutinas del proceso.
