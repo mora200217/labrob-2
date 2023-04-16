@@ -2,7 +2,7 @@
 Segundo laboratorio de la asignatura de Robótica de la Universidad Nacional de Colombia 2023-i. 
 
 <p align="center">
-<img marigin="auto" src="https://github.com/mora200217/labrob-1/blob/master/assets/funcional.gif" width="60%"/> 
+<img marigin="auto" src="https://github.com/mora200217/labrob-2/blob/master/assets/tablero.jpeg" width="60%"/> 
 </p>
 
 **Integrantes**: 
