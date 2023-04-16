@@ -25,7 +25,7 @@ Se definieron dos entradas digitales.
 -  La segunda (DI_02) posterior a la ejecución de escritura, provoca un giro de 90º en la primera articulacion (J1). 
 
 Solo se usó una salida digital. 
-- DO_01 se usó como indicador de funcionamiento del robot. Activado con la primera entrada (DI_01) y desactivado al finalizar la segunda subrutina (Activada por DI_02)
+- DO_03 se usó como indicador de funcionamiento del robot. Activado con la primera entrada (DI_01) y desactivado al finalizar la segunda subrutina (Activada por DI_02)
 
 
 __Implementación de la práctica en el laboratorio:__ https://youtu.be/Z5ZqPjXJmZI
